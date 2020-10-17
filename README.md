@@ -18,7 +18,7 @@ The list of styled dynamic informational shields, given the ability to exist by 
 
 ---
 
-Add some **color** to your repository! Or remove it, while leaving the logo on a badge. Anyways, it just looks dope :sunglasses:
+Add some **color** to your repository! Or remove it, while leaving the logo on a badge. Anyway, it just looks dope :sunglasses:
 
 <table>
     <tr>
