@@ -10,7 +10,7 @@
  \▓▓   \▓▓ \▓▓▓▓▓\▓▓▓▓ \▓▓▓▓▓▓▓ \▓▓  \▓▓  \▓▓ \▓▓▓▓▓▓ \▓▓   \▓▓\▓▓ \▓▓▓▓▓▓▓\▓▓ \▓▓▓▓▓▓▓\▓▓▓▓▓▓▓ 
                                                                                                 
 ```
-The list of styled informational shields, given the ability to exist by the truly amazing work of [**shields.io**](https://shields.io) :heart_eyes:
+The list of styled dynamic informational shields, given the ability to exist by the truly amazing work of [**shields.io**](https://shields.io) :heart_eyes:
 
 ---
 
