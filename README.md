@@ -30,6 +30,20 @@ Add some **color** to your reporitory! Or remove it, while leaving the logo on a
 + [Build / CI](https://github.com/a-maliarov/awesome-shields/blob/main/categories/build.md)
 + [Code Coverage](https://github.com/a-maliarov/awesome-shields/blob/main/categories/code_coverage.md)
 + [Analysis](https://github.com/a-maliarov/awesome-shields/blob/main/categories/analysis.md)
++ [Chat](https://github.com/a-maliarov/awesome-shields/blob/main/categories/chat.md)
++ [Dependencies](https://github.com/a-maliarov/awesome-shields/blob/main/categories/dependencies.md)
++ [Size](https://github.com/a-maliarov/awesome-shields/blob/main/categories/size.md)
++ [Downloads](https://github.com/a-maliarov/awesome-shields/blob/main/categories/downloads.md)
++ [Funding](https://github.com/a-maliarov/awesome-shields/blob/main/categories/funding.md)
++ [Issue Tracking](https://github.com/a-maliarov/awesome-shields/blob/main/categories/issue_tracking.md)
++ [License](https://github.com/a-maliarov/awesome-shields/blob/main/categories/license_.md)
++ [Rating](https://github.com/a-maliarov/awesome-shields/blob/main/categories/rating.md)
++ [Social](https://github.com/a-maliarov/awesome-shields/blob/main/categories/social.md)
++ [Version](https://github.com/a-maliarov/awesome-shields/blob/main/categories/version_.md)
++ [Platform & Version Support](https://github.com/a-maliarov/awesome-shields/blob/main/categories/platform_and_version_support.md)
++ [Monitoring](https://github.com/a-maliarov/awesome-shields/blob/main/categories/monitoring.md)
++ [Activity](https://github.com/a-maliarov/awesome-shields/blob/main/categories/activity.md)
++ [Other](https://github.com/a-maliarov/awesome-shields/blob/main/categories/other.md)
 
 ---
 
