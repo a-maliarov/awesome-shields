@@ -23,31 +23,31 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
 <table>
     <tr>
         <th>Before</th>
-        <td>
+        <th>
             <a href=""><img
                 alt="Discord"
                 src="https://img.shields.io/discord/596817243317207105"></a>
-        </td>
-        <td>
+        </th>
+        <th>
             <a href=""><img
                 alt="YouTube"
                 src="https://img.shields.io/youtube/likes/Dl-ekLb4quE?style=social"></a>
-        </td>
-        <td>
+        </th>
+        <th>
             <a href=""><img
                 alt="Build Status"
                 src="https://travis-ci.com/a-maliarov/amazoncaptcha.svg?branch=master"></a>
-        </td>
-        <td>
+        </th>
+        <th>
             <a href=""><img
                 alt="Code Coverage"
                 src="https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha"></a>
-        </td>
-        <td>
+        </th>
+        <th>
             <a href=""><img
                 alt="Dependencies"
                 src="https://img.shields.io/requires/github/a-maliarov/amazoncaptcha"></a>
-        </td>
+        </th>
     </tr>
     <tr>
         <th>After</th>
