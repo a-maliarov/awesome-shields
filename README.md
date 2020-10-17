@@ -103,6 +103,6 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
 ---
 
 ## Contributing
-Your contributions are always welcome! Please take a look at the [contribution guidelines first](https://github.com/a-maliarov/awesome-shields/blob/main/.github/CONTRIBUTING.md).
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/a-maliarov/awesome-shields/blob/main/.github/CONTRIBUTING.md) first.
 
 ---
