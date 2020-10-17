@@ -18,7 +18,7 @@ The list of styled dynamic informational shields, given the ability to exist by 
 
 ---
 
-Add some **color** to your reporitory! Or remove it, while leaving the logo on a badge. Anyways, it just looks dope :sunglasses:
+Add some **color** to your repository! Or remove it, while leaving the logo on a badge. Anyways, it just looks dope :sunglasses:
 
 |**Before**|[![Discord](https://img.shields.io/discord/596817243317207105)]()|[![YouTube](https://img.shields.io/youtube/likes/Dl-ekLb4quE?style=social)]()|[![Build Status](https://travis-ci.com/a-maliarov/amazoncaptcha.svg?branch=master)]()|[![Code Coverage](https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha)]()|[![Dependencies](https://img.shields.io/requires/github/a-maliarov/amazoncaptcha)]()|
 |---|---|---|---|---|---|
