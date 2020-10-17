@@ -27,11 +27,13 @@ Add some **color** to your reporitory! Or remove it, while leaving the logo on a
 ---
 
 ## Categories
-+ [Build](https://github.com/a-maliarov/awesome-shields/blob/main/categories/build.md)
++ [Build / CI](https://github.com/a-maliarov/awesome-shields/blob/main/categories/build.md)
++ [Code Coverage](https://github.com/a-maliarov/awesome-shields/blob/main/categories/code_coverage.md)
++ [Analysis](https://github.com/a-maliarov/awesome-shields/blob/main/categories/analysis.md)
 
 ---
 
 ## Contributing
-Your contributions are always welcome! Please take a look at the contribution guidelines first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines first](https://github.com/a-maliarov/awesome-shields/blob/main/.github/CONTRIBUTING.md).
 
 ---
