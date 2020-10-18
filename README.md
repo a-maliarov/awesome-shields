@@ -24,9 +24,9 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
     <tr>
         <th>Before</th>
         <th>
-            <a href=""><img
+            <a href="https://discord.gg/VnrdB6K"><img
                 alt="Discord"
-                src="https://img.shields.io/discord/596817243317207105"></a>
+                src="https://img.shields.io/discord/767286138007584780"></a>
         </th>
         <th>
             <a href=""><img
@@ -52,9 +52,9 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
     <tr>
         <th>After</th>
         <td>
-            <a href=""><img
+            <a href="https://discord.gg/VnrdB6K"><img
                 alt="Discord"
-                src="https://img.shields.io/discord/596817243317207105?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33"></a>
+                src="https://img.shields.io/discord/767286138007584780?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33"></a>
         </td>
         <td>
             <a href=""><img
