@@ -39,7 +39,7 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
                 src="https://travis-ci.com/a-maliarov/amazoncaptcha.svg?branch=master"></a>
         </th>
         <th>
-            <a href=""><img
+            <a href="https://github.com/a-maliarov/awesome-shields/blob/main/categories/code_coverage.md"><img
                 alt="Code Coverage"
                 src="https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha"></a>
         </th>
@@ -67,7 +67,7 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
                 src="https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=2782f7"></a>
         </td>
         <td>
-            <a href=""><img
+            <a href="https://github.com/a-maliarov/awesome-shields/blob/main/categories/code_coverage.md"><img
                 alt="Code Coverage"
                 src="https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha?label=Codecov&logo=Codecov&logoColor=ffffff&labelColor=F01F7A"></a>
         </td>
