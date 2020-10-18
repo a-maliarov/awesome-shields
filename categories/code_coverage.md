@@ -1,5 +1,10 @@
 # Code Coverage
 
+## Codecov
+[![Codecov](https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha?label=Codecov&logo=Codecov&logoColor=ffffff&labelColor=F01F7A)]()
+[![Codecov](https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha?label=Coverage&logo=Codecov&logoColor=ffffff&labelColor=F01F7A)]()
+[![Codecov](https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha?label=Coverage&logo=Codecov&logoColor=ffffff&labelColor=282828)]()
+
 ---
 <table>
     <tr>
