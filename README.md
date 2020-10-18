@@ -44,7 +44,7 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
                 src="https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha"></a>
         </th>
         <th>
-            <a href=""><img
+            <a href="https://github.com/a-maliarov/awesome-shields/blob/main/categories/dependencies.md"><img
                 alt="Dependencies"
                 src="https://img.shields.io/requires/github/a-maliarov/amazoncaptcha"></a>
         </th>
@@ -72,7 +72,7 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
                 src="https://img.shields.io/codecov/c/gh/a-maliarov/amazoncaptcha?label=Codecov&logo=Codecov&logoColor=ffffff&labelColor=F01F7A"></a>
         </td>
         <td>
-            <a href=""><img
+            <a href="https://github.com/a-maliarov/awesome-shields/blob/main/categories/dependencies.md"><img
                 alt="Dependencies"
                 src="https://img.shields.io/requires/github/a-maliarov/amazoncaptcha?label=Requirements&logoColor=ffffff&labelColor=282828"></a>
         </td>
