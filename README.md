@@ -81,6 +81,9 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
 
 ---
 
+## Recent Updates:
++ *October 18, 2020*: The list is currently under development and is not completed.
+
 ## Categories
 + [Build / CI](https://github.com/a-maliarov/awesome-shields/blob/main/categories/build.md)
 + [Code Coverage](https://github.com/a-maliarov/awesome-shields/blob/main/categories/code_coverage.md)
