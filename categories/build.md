@@ -1,8 +1,11 @@
 # Build / CI
 
-## Travis CI
-[![Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=2782f7)]()
-[![Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=282828)]()
+## AppVeyor
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/cdorst/addresses-addresses-apicontroller.svg?branch=master&label=AppVeyor%20CI&logo=appveyor&logoColor=ffffff&labelColor=282828)]()
+
+## Travis CI 
+[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=2782f7)]()
+[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=282828)]()
 
 ---
 <table>
