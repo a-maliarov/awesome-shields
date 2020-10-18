@@ -1,5 +1,8 @@
 # Dependencies
 
+## Requires.io (no logo yet)
+[![Requires.io](https://img.shields.io/requires/github/a-maliarov/amazoncaptcha?label=Requirements&logoColor=ffffff&labelColor=282828)]()
+
 ---
 <table>
     <tr>
