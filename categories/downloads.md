@@ -1,5 +1,8 @@
 # Downloads
 
+## PyPi
+[![PyPi Downloads](https://img.shields.io/pypi/dm/amazoncaptcha?branch=master&label=PyPi%20Downloads&logo=PyPi&logoColor=ffffff&labelColor=306998&color=FFD43B&style=flat)](https://pypi.org/project/amazoncaptcha/)
+
 ---
 <table>
     <tr>
