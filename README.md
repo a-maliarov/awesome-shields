@@ -29,9 +29,9 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
                 src="https://img.shields.io/discord/767286138007584780"></a>
         </th>
         <th>
-            <a href=""><img
+            <a href="https://www.youtube.com/watch?v=xFXERAZ3RIg"><img
                 alt="YouTube"
-                src="https://img.shields.io/youtube/likes/Dl-ekLb4quE?style=social"></a>
+                src="https://img.shields.io/youtube/likes/xFXERAZ3RIg?style=social"></a>
         </th>
         <th>
             <a href="https://github.com/a-maliarov/awesome-shields/blob/main/categories/build.md"><img
@@ -57,9 +57,9 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
                 src="https://img.shields.io/discord/767286138007584780?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33"></a>
         </td>
         <td>
-            <a href=""><img
+            <a href="https://www.youtube.com/watch?v=xFXERAZ3RIg"><img
                 alt="YouTube"
-                src="https://img.shields.io/youtube/likes/Dl-ekLb4quE?label=Likes&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat"></a>
+                src="https://img.shields.io/youtube/likes/xFXERAZ3RIg?label=Likes&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat"></a>
         </td>
         <td>
             <a href="https://github.com/a-maliarov/awesome-shields/blob/main/categories/build.md"><img
