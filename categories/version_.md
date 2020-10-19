@@ -1,5 +1,8 @@
 # Version
 
+## PyPi
+[![PyPi License](https://img.shields.io/pypi/v/amazoncaptcha?branch=master&label=PyPi%20Version&logo=PyPi&logoColor=ffffff&labelColor=306998&color=FFD43B&style=flat)](https://pypi.org/project/amazoncaptcha/)
+
 ---
 <table>
     <tr>
