@@ -3,6 +3,7 @@
 ## Github
 [![GitHub Issues](https://img.shields.io/github/issues/badges/shields?branch=master&label=Issues&logo=GitHub&logoColor=ffffff&labelColor=282828&style=flat)]()
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/badges/shields?branch=master&label=Closed%20Issues&logo=GitHub&logoColor=ffffff&labelColor=282828&style=flat)]()
+[![GitHub Issues](https://img.shields.io/github/issues/badges/shields?branch=master&label=Issues&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
 ---
 <table>
