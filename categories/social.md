@@ -7,6 +7,11 @@
 [![GitHub user stars](https://img.shields.io/github/stars/a-maliarov?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
+## YouTube
+[![Youtube Comments](https://img.shields.io/youtube/comments/xFXERAZ3RIg?label=Comments&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
+[![Youtube Likes](https://img.shields.io/youtube/likes/xFXERAZ3RIg?label=Likes&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
+[![Youtube Views](https://img.shields.io/youtube/views/xFXERAZ3RIg?label=Views&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
+
 ---
 <table>
     <tr>
