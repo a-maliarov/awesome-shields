@@ -1,5 +1,11 @@
 # Rating
 
+## WordPress
+[![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/bbpress?branch=master&label=Plugin%20Rating&logo=WordPress&logoColor=ffffff&labelColor=21759b&style=flat)]()
+[![WordPress Theme Rating](https://img.shields.io/wordpress/theme/rating/twentyseventeen?branch=master&label=Theme%20Rating&logo=WordPress&logoColor=ffffff&labelColor=21759b&style=flat)]()
+[![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/bbpress?branch=master&label=Plugin%20Rating&logo=WordPress&logoColor=ffffff&labelColor=282828&style=flat)]()
+[![WordPress Theme Rating](https://img.shields.io/wordpress/theme/rating/twentyseventeen?branch=master&label=Theme%20Rating&logo=WordPress&logoColor=ffffff&labelColor=282828&style=flat)]()
+
 ---
 <table>
     <tr>
