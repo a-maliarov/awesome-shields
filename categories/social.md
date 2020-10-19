@@ -1,5 +1,12 @@
 # Social
 
+## Github
+[![GitHub followers](https://img.shields.io/github/followers/a-maliarov?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![GitHub forks](https://img.shields.io/github/forks/a-maliarov/awesome-shields?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![GitHub stars](https://img.shields.io/github/stars/a-maliarov/awesome-shields?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![GitHub user stars](https://img.shields.io/github/stars/a-maliarov?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
 ---
 <table>
     <tr>
