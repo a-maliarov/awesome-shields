@@ -1,5 +1,9 @@
 # Funding
 
+## Patreon
+[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
+[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=282828&color=f96854&style=flat)]()
+
 ---
 <table>
     <tr>
