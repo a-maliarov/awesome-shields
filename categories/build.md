@@ -36,13 +36,13 @@
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/azure-devops/build/totodem/8cf3ec0e-d0c2-4fcd-8206-ad204f254a96/2?branch=master&label=Azure%20DevOps&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=007fff&style=flat"
-               alt="Azure DevOps Blue"
+               alt="Azure DevOps Service Theme"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/azure-devops/tests/azuredevops-powershell/azuredevops-powershell/1?compact_message&branch=master&label=Azure%20Tests&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=007fff&style=flat"
-               alt="Azure DevOps Tests Blue"
+               alt="Azure DevOps Tests Service Theme"
               >
             </a>
         </td>
@@ -59,7 +59,7 @@
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitbucket&logo=Bitbucket&logoColor=ffffff&labelColor=0052CC"
-               alt="Bitbucket Blue"
+               alt="Bitbucket Service Theme"
               >
             </a>
         </td>
@@ -76,7 +76,75 @@
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
-               alt="Bitrise Purple"
+               alt="Bitrise Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Buildkite</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/buildkite/3826789cf8890b426057e6fe1c4e683bdf04fa24d498885489?branch=master&label=Buildkite&logo=Buildkite&logoColor=ffffff&labelColor=282828"
+               alt="Buildkite Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/buildkite/3826789cf8890b426057e6fe1c4e683bdf04fa24d498885489?branch=master&label=Buildkite&logo=Buildkite&logoColor=ffffff&labelColor=14CC80"
+               alt="Buildkite Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>CircleCI</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/circleci/build/github/RedSparr0w/node-csgo-parser?branch=master&label=CircleCI&logo=CircleCI&logoColor=ffffff&labelColor=282828"
+               alt="CircleCI Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/circleci/build/github/RedSparr0w/node-csgo-parser?branch=master&label=CircleCI&logo=CircleCI&logoColor=ffffff&labelColor=343434"
+               alt="CircleCI Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Cirrus CI</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/cirrus/github/flutter/flutter?branch=master&label=Cirrus%20CI&logo=Cirrus%20CI&logoColor=ffffff&labelColor=282828"
+               alt="Cirrus CI Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/cirrus/github/flutter/flutter?branch=master&label=Cirrus%20CI&logo=Cirrus%20CI&logoColor=ffffff&labelColor=212121"
+               alt="Cirrus CI Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Codeship</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Codeship&logo=Codeship&logoColor=ffffff&labelColor=282828"
+               alt="Codeship Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Codeship&logo=Codeship&logoColor=ffffff&labelColor=3C4858"
+               alt="Codeship Service Theme"
               >
             </a>
         </td>
