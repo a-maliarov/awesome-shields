@@ -11,13 +11,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
+               src="https://img.shields.io/bitrise/3ff11fe8457bd304/master?&token=lESRN9rEFFfDq92JtXs_jw&branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
                alt="Bitrise Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
+               src="https://img.shields.io/bitrise/3ff11fe8457bd304/master?&token=lESRN9rEFFfDq92JtXs_jw&branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
                alt="Bitrise Service Theme"
               >
             </a>
@@ -31,13 +31,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
+               src="https://img.shields.io/bitrise/3ff11fe8457bd304/master?&token=lESRN9rEFFfDq92JtXs_jw&branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
                alt="Bitrise Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
+               src="https://img.shields.io/bitrise/3ff11fe8457bd304/master?&token=lESRN9rEFFfDq92JtXs_jw&branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
                alt="Bitrise Service Theme"
               >
             </a>
