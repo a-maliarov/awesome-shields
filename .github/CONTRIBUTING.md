@@ -3,13 +3,46 @@
 + We do not hardcode the output of the right part, just the color (if needed).
 + Shield source should start with *img.shields.io*.
 + We can specify *alt* and *source*, but not the *href*.
-+ The *source* link can link to the actual project, but there should not be a link, just leave empty parentheses.
 
 # Example of proper addition
+<table>
+      <tr>
+        <td>Bitrise</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
+               alt="Bitrise Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
+               alt="Bitrise Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+</table>
+
 ```
-## Travis CI 
-[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=2782f7)]()
-[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=282828)]()
+    <tr>
+        <td>Bitrise</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
+               alt="Bitrise Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
+               alt="Bitrise Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
 ```
 
 **Contribution guidelines are "young", because the project has just started, therefore there might be some changes in the future.**
