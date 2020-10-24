@@ -82,6 +82,7 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
 ---
 
 ## Recent Updates:
++ *October 25, 2020*: Build category is fully covered.
 + *October 18, 2020*: The list is currently under development and is not completed.
 
 ## Categories
