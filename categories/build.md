@@ -103,12 +103,6 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/circleci/build/github/RedSparr0w/node-csgo-parser?branch=master&label=CircleCI&logo=CircleCI&logoColor=ffffff&labelColor=282828"
-               alt="CircleCI Dark"
-              >
-            </a>
-            <a href="https://shields.io/category/build">
-              <img
                src="https://img.shields.io/circleci/build/github/RedSparr0w/node-csgo-parser?branch=master&label=CircleCI&logo=CircleCI&logoColor=ffffff&labelColor=343434"
                alt="CircleCI Service Theme"
               >
@@ -118,12 +112,6 @@
     <tr>
         <td>Cirrus CI</td>
         <td>
-            <a href="https://shields.io/category/build">
-              <img
-               src="https://img.shields.io/cirrus/github/flutter/flutter?branch=master&label=Cirrus%20CI&logo=Cirrus%20CI&logoColor=ffffff&labelColor=282828"
-               alt="Cirrus CI Dark"
-              >
-            </a>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/cirrus/github/flutter/flutter?branch=master&label=Cirrus%20CI&logo=Cirrus%20CI&logoColor=ffffff&labelColor=212121"
@@ -145,6 +133,45 @@
               <img
                src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Codeship&logo=Codeship&logoColor=ffffff&labelColor=3C4858"
                alt="Codeship Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Docker</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Docker&logo=Docker&logoColor=ffffff&labelColor=282828"
+               alt="Docker Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Docker&logo=Docker&logoColor=ffffff&labelColor=2496ED"
+               alt="Docker Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Drone</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/drone/build/drone/drone?branch=master&label=Drone&logo=Drone&logoColor=ffffff&labelColor=212121"
+               alt="Drone Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>GitHub</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/github/workflow/status/actions/toolkit/toolkit-unit-tests?branch=master&label=GitHub&logo=GitHub&logoColor=ffffff&labelColor=181717"
+               alt="GitHub Service Theme"
               >
             </a>
         </td>
