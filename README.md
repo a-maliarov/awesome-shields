@@ -85,7 +85,7 @@ Add some **color** to your repository! Or remove it, while leaving the logo on a
 Came here from [this video](https://www.youtube.com/watch?v=xFXERAZ3RIg)? Some of the categories in this repository **have received some changes**, and badges are listed in a bit different format in comparizon to what it looked like before. You can check out [this video](https://www.youtube.com/watch?v=b9GTid6m6gs) to **understand more about how badges construction works** or use [this link with time code](https://youtu.be/b9GTid6m6gs?t=355) to just see how to translate a badge from HTML to Markdown.
 
 ## Recent Updates:
-+ *October 25, 2020*: Build category is fully covered.
++ *October 25, 2020*: **Build** and **Code Coverage** categories are fully covered.
 + *October 18, 2020*: The list is currently under development and is not completed.
 
 ## Categories
