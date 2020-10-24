@@ -2,47 +2,81 @@
 
 <table>
     <tr>
-        <th>AppVeyor CI</th>
+        <td>AppVeyor CI</td>
         <td>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/appveyor/build/gruntjs/grunt?branch=master&label=AppVeyor%20CI&logo=appveyor&logoColor=ffffff&labelColor=282828"
-               alt="AppVeyor"
+               alt="AppVeyor Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to?compact_message&branch=master&label=AppVeyor%20Tests&logo=appveyor&logoColor=ffffff&labelColor=282828"
-               alt="AppVeyor Tests"
+               alt="AppVeyor Tests Dark"
               >
             </a>
         </td>
     </tr>
     <tr>
-        <th>Azure DevOps</th>
+        <td>Azure DevOps</td>
         <td>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/azure-devops/build/totodem/8cf3ec0e-d0c2-4fcd-8206-ad204f254a96/2?branch=master&label=Azure%20DevOps&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=282828&style=flat"
-               alt="Azure DevOps"
+               alt="Azure DevOps Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/azure-devops/tests/azuredevops-powershell/azuredevops-powershell/1?compact_message&branch=master&label=Azure%20Tests&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=282828&style=flat"
-               alt="Azure DevOps Tests"
+               alt="Azure DevOps Tests Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/azure-devops/build/totodem/8cf3ec0e-d0c2-4fcd-8206-ad204f254a96/2?branch=master&label=Azure%20DevOps&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=007fff&style=flat"
-               alt="Azure DevOps"
+               alt="Azure DevOps Blue"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
                src="https://img.shields.io/azure-devops/tests/azuredevops-powershell/azuredevops-powershell/1?compact_message&branch=master&label=Azure%20Tests&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=007fff&style=flat"
-               alt="Azure DevOps Tests"
+               alt="Azure DevOps Tests Blue"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Bitbucket</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitbucket&logo=Bitbucket&logoColor=ffffff&labelColor=282828"
+               alt="Bitbucket Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitbucket&logo=Bitbucket&logoColor=ffffff&labelColor=0052CC"
+               alt="Bitbucket Blue"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Bitrise</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=282828"
+               alt="Bitrise Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168?branch=master&label=Bitrise&logo=Bitrise&logoColor=ffffff&labelColor=683D87"
+               alt="Bitrise Purple"
               >
             </a>
         </td>
