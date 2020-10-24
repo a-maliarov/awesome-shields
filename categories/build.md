@@ -142,13 +142,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Docker&logo=Docker&logoColor=ffffff&labelColor=282828"
+               src="https://img.shields.io/docker/build/jrottenberg/ffmpeg?branch=master&label=Docker&logo=Docker&logoColor=ffffff&labelColor=282828"
                alt="Docker Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1?branch=master&label=Docker&logo=Docker&logoColor=ffffff&labelColor=2496ED"
+               src="https://img.shields.io/docker/build/jrottenberg/ffmpeg?branch=master&label=Docker&logo=Docker&logoColor=ffffff&labelColor=2496ED"
                alt="Docker Service Theme"
               >
             </a>
