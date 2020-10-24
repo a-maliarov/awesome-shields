@@ -278,12 +278,24 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td>Travis CI</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=282828"
+               alt="Sonar Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=2782f7"
+               alt="Sonar Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
 </table>
-
-## Travis CI 
-[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=2782f7)]()
-[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=ffffff&labelColor=282828)]()
-[![Travis CI Build Status](https://img.shields.io/travis/a-maliarov/amazoncaptcha?branch=master&label=Travis%20CI&logo=Travis%20CI&logoColor=D00000&labelColor=FFBA08)]()
 
 ---
 <table>
