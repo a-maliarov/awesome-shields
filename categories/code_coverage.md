@@ -114,7 +114,7 @@
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/jenkins/coverage/cobertura?jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_coverage&branch=master&label=Coverage&logo=Jenkins&logoColor=ffffff&labelColor=FCA121"
+               src="https://img.shields.io/jenkins/coverage/cobertura?jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_coverage&branch=master&label=Coverage&logo=Jenkins&logoColor=ffffff&labelColor=D24939"
                alt="Jenkins Service Theme"
               >
             </a>
