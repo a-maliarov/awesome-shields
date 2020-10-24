@@ -210,6 +210,74 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td>Netlify</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/netlify/e6d5a4e0-dee1-4261-833e-2f47f509c68f?branch=master&label=Netlify&logo=Netlify&logoColor=ffffff&labelColor=282828"
+               alt="Netlify Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/netlify/e6d5a4e0-dee1-4261-833e-2f47f509c68f?branch=master&label=Netlify&logo=Netlify&logoColor=ffffff&labelColor=00C7B7"
+               alt="Netlify Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Read the Docs</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/readthedocs/pip?branch=master&label=Read%20the%20Docs&logo=Read%20the%20Docs&logoColor=ffffff&labelColor=282828"
+               alt="Read the Docs Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/readthedocs/pip?branch=master&label=Read%20the%20Docs&logo=Read%20the%20Docs&logoColor=ffffff&labelColor=8CA1AF"
+               alt="Read the Docs Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Scrutinizer</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/scrutinizer/build/g/filp/whoops?branch=master&label=Scrutinizer%20CI&logo=Scrutinizer%20CI&logoColor=ffffff&labelColor=282828"
+               alt="Scrutinizer Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/scrutinizer/build/g/filp/whoops?branch=master&label=Scrutinizer%20CI&logo=Scrutinizer%20CI&logoColor=ffffff&labelColor=8A9296"
+               alt="Scrutinizer Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Sonar</td>
+        <td>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/sonar/tests/mailbox-cleaner?compact_message&server=https%3A%2F%2Fsonarcloud.io&branch=master&label=SonarCloud&logo=SonarCloud&logoColor=ffffff&labelColor=282828"
+               alt="Sonar Dark"
+              >
+            </a>
+            <a href="https://shields.io/category/build">
+              <img
+               src="https://img.shields.io/sonar/tests/mailbox-cleaner?compact_message&server=https%3A%2F%2Fsonarcloud.io&branch=master&label=SonarCloud&logo=SonarCloud&logoColor=ffffff&labelColor=F3702A"
+               alt="Sonar Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
 </table>
 
 ## Travis CI 
