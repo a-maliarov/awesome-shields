@@ -198,13 +198,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_coverage&branch=master&label=Jenkins&logo=Jenkins&logoColor=ffffff&labelColor=282828"
+               src="https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_coverage&branch=master&label=Jenkins%20Tests&logo=Jenkins&logoColor=ffffff&labelColor=282828"
                alt="Jenkins Tests Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_coverage&branch=master&label=Jenkins&logo=Jenkins&logoColor=ffffff&labelColor=D24939"
+               src="https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_coverage&branch=master&label=Jenkins%20Tests&logo=Jenkins&logoColor=ffffff&labelColor=D24939"
                alt="Jenkins Tests Service Theme"
               >
             </a>
