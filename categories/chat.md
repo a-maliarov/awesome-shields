@@ -13,41 +13,6 @@
         </td>
     </tr>
     <tr>
-        <td>Discourse</td>
-        <td>
-            <a href="https://shields.io/category/chat">
-              <img
-               src="https://img.shields.io/discourse/topics?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
-               alt="Discourse Topics"
-              >
-            </a>
-            <a href="https://shields.io/category/chat">
-              <img
-               src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
-               alt="Discourse Users"
-              >
-            </a>
-            <a href="https://shields.io/category/chat">
-              <img
-               src="https://img.shields.io/discourse/posts?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
-               alt="Discourse Posts"
-              >
-            </a>
-            <a href="https://shields.io/category/chat">
-              <img
-               src="https://img.shields.io/discourse/likes?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
-               alt="Discourse Likes"
-              >
-            </a>
-            <a href="https://shields.io/category/chat">
-              <img
-               src="https://img.shields.io/discourse/status?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
-               alt="Discourse Status"
-              >
-            </a>
-        </td>
-    </tr>
-    <tr>
         <td>Gitter</td>
         <td>
             <a href="https://shields.io/category/chat">
@@ -82,6 +47,41 @@
               <img
                src="https://img.shields.io/stackexchange/stackoverflow/t/gson?label=Questions&logo=Stack%20Overflow&logoColor=ffffff&labelColor=FE7A16&color=282828"
                alt="Stack Overflow Service Theme"
+              >
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Discourse</td>
+        <td>
+            <a href="https://shields.io/category/chat">
+              <img
+               src="https://img.shields.io/discourse/topics?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
+               alt="Discourse Topics"
+              >
+            </a>
+            <a href="https://shields.io/category/chat">
+              <img
+               src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
+               alt="Discourse Users"
+              >
+            </a>
+            <a href="https://shields.io/category/chat">
+              <img
+               src="https://img.shields.io/discourse/posts?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
+               alt="Discourse Posts"
+              >
+            </a>
+            <a href="https://shields.io/category/chat">
+              <img
+               src="https://img.shields.io/discourse/likes?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
+               alt="Discourse Likes"
+              >
+            </a>
+            <a href="https://shields.io/category/chat">
+              <img
+               src="https://img.shields.io/discourse/status?server=https%3A%2F%2Fmeta.discourse.org&label=Discourse&logo=Discourse&logoColor=ffffff&labelColor=000000"
+               alt="Discourse Status"
               >
             </a>
         </td>
