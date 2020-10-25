@@ -74,13 +74,13 @@
         <td>
             <a href="https://shields.io/category/chat">
               <img
-               src="https://img.shields.io/stackexchange/stackoverflow/r/123?label=Stack%20Overflow&logo=Stack%20Overflow&logoColor=ffffff&labelColor=282828"
-               alt="Stack Overflow Dark"
+               src="https://img.shields.io/stackexchange/stackoverflow/r/123?label=Reputation&logo=Stack%20Overflow&logoColor=ffffff&labelColor=FE7A16&color=282828"
+               alt="Stack Overflow Service Theme"
               >
             </a>
             <a href="https://shields.io/category/chat">
               <img
-               src="https://img.shields.io/stackexchange/stackoverflow/r/123?label=Stack%20Overflow&logo=Stack%20Overflow&logoColor=ffffff&labelColor=FE7A16&color=282828"
+               src="https://img.shields.io/stackexchange/stackoverflow/t/gson?label=Questions&logo=Stack%20Overflow&logoColor=ffffff&labelColor=FE7A16&color=282828"
                alt="Stack Overflow Service Theme"
               >
             </a>
