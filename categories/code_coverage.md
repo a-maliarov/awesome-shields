@@ -6,13 +6,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/azure-devops/coverage/swellaby/opensource/25?branch=master&label=Azure%20Coverage&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=282828&style=flat"
+               src="https://img.shields.io/azure-devops/coverage/swellaby/opensource/25?branch=master&label=Coverage&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=282828&style=flat"
                alt="Azure DevOps Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/azure-devops/coverage/swellaby/opensource/25?branch=master&label=Azure%20Coverage&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=007fff&style=flat"
+               src="https://img.shields.io/azure-devops/coverage/swellaby/opensource/25?branch=master&label=Coverage&logo=Microsoft%20Azure&logoColor=ffffff&labelColor=007fff&style=flat"
                alt="Azure DevOps Service Theme"
               >
             </a>
@@ -23,13 +23,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/codacy/coverage/59d607d0e311408885e418004068ea58?branch=master&label=Codacy&logo=Codacy&logoColor=ffffff&labelColor=282828"
+               src="https://img.shields.io/codacy/coverage/59d607d0e311408885e418004068ea58?branch=master&label=Coverage&logo=Codacy&logoColor=ffffff&labelColor=282828"
                alt="Codacy Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/codacy/coverage/59d607d0e311408885e418004068ea58?branch=master&label=Codacy&logo=Codacy&logoColor=ffffff&labelColor=222F29"
+               src="https://img.shields.io/codacy/coverage/59d607d0e311408885e418004068ea58?branch=master&label=Coverage&logo=Codacy&logoColor=ffffff&labelColor=222F29"
                alt="Codacy Service Theme"
               >
             </a>
@@ -40,13 +40,13 @@
         <td>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/codeclimate/coverage/codeclimate/codeclimate?branch=master&label=Code%20Climate&logo=Code%20Climate&logoColor=ffffff&labelColor=282828"
+               src="https://img.shields.io/codeclimate/coverage/codeclimate/codeclimate?branch=master&label=Coverage&logo=Code%20Climate&logoColor=ffffff&labelColor=282828"
                alt="Code Climate Dark"
               >
             </a>
             <a href="https://shields.io/category/build">
               <img
-               src="https://img.shields.io/codeclimate/coverage/codeclimate/codeclimate?branch=master&label=Code%20Climate&logo=Code%20Climate&logoColor=ffffff&labelColor=222F29"
+               src="https://img.shields.io/codeclimate/coverage/codeclimate/codeclimate?branch=master&label=Coverage&logo=Code%20Climate&logoColor=ffffff&labelColor=222F29"
                alt="Code Climate Service Theme"
               >
             </a>
